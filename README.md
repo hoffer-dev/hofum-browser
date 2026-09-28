@@ -1,2 +1,2 @@
 # hofum-browser
-Hofum Browser — an open-source privacy browser developed by hoffer.
+Hofum Browser — Navigate the web. Free as the sea.
